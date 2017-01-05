@@ -1,7 +1,8 @@
 # Site settings
-title: Modern Blog
+title: Adventure through the Enchanted Broccoli Forest
+subtitle: With tour guide Mollie Katzen
 description: Modern-Blog A Elegant template for Jekyll
 keywords: Modern, Blogging, Fun
-author: Wferr
+author: Michael
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
