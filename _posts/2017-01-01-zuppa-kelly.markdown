@@ -1,5 +1,5 @@
 ---
-title:  "Zuppa Alla Pavese (Kelly)"
+title:  "Zuppa Alla Pavese (K)"
 subtitle: "Wine + Soy Sauce = ???"
 author: "Kelly"
 avatar: "img/authors/wferr.png"

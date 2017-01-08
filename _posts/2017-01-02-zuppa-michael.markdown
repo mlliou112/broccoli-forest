@@ -1,5 +1,5 @@
 ---
-title:  "Zuppa Alla Pavese (Michael)"
+title:  "Zuppa Alla Pavese (M)"
 subtitle: "Bread and Egg Soup"
 author: "Michael"
 avatar: "img/authors/wferr.png"
