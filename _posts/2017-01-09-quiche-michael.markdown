@@ -23,7 +23,7 @@ be just right. Finally, you should be careful not to leave the quiche in the
 oven for too long. I would say this is a success for my first quiche, but
 there's still a ways to go before calling it perfect. Next time I'll probably
 pre-bake the crust to make it crispier, and increase the egg ratio for the
-filling. It was a little too much creamy for my taste this time around.
+filling. It was a little too creamy for my taste this time around.
 
 I'll definitely be trying this again! I was quite surprised at how easy making
 a quiche was, especially with a homemade crust. Quiche does not require very
