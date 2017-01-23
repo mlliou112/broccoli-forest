@@ -24,7 +24,7 @@ Pasta + Hummus + Tomatoes
 
 <img src="img/hummus_pasta_kelly.jpg" width="50%">
 
-Pasta + Crackers + Sunflower Seeds
+Hummus + Crackers + Sunflower Seeds
 
 <img src="img/hummus_crackers_kelly.jpg" width="50%">
 
