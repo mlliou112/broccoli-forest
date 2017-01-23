@@ -1,10 +1,10 @@
 ---
-title:  "Tomato Fans (K)"
+title:  "Tomato Fan (K)"
 subtitle: "Food for the Eye"
 author: "Kelly"
 avatar: "img/authors/wferr.png"
 image: "img/tomato_fan_kelly.jpg"
-date:   2017-01-17 12:12:12
+date:   2017-01-02 12:12:12
 ---
 
 This recipe first caught my eye because it was reminiscent of a recipe for
